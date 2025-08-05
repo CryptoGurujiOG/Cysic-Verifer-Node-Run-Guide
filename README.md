@@ -36,6 +36,7 @@ Create a new MetaMask wallet, then import the same wallet into Keplr using the s
 - Choose a Name and Submit 
 - Click on your Metamask wallet address (top right)
 - Connect your Keplr wallet
+- Click Social Tasks and complete all tasks
 - Click on the Faucet icon
 - Claim 0.1 testnet $CYS daily
 - You will need more than 0.6 testnet $CYS to run a verifier node
