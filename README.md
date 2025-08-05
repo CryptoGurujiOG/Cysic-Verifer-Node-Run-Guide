@@ -1,5 +1,5 @@
 # Cysic-Verifer-Node-Run-Guide
-In this guide, I will provide step-by-step instructions for setting up and running a Cysic verifier node on a Linux VPS with ease.
+In this guide, I will walk you through step-by-step instructions to set up and run a Cysic verifier node on Windows (via WSL), macOS, and VPS, making the process easy and efficient.
 
 ## Verifier Node Requirements:
 
