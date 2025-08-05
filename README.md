@@ -55,7 +55,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install -y screen wget
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && brew update && brew install screen wget
 ```
 
-## Install The Verifier Node:
+## Install and Run Verifier Node:
 
 - Replace ```0x-Fill-in-your-reward-address-here``` with your actual with your actual Metamask ```EVM address```
 
@@ -65,14 +65,4 @@ curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setu
 cd ~/cysic-verifier/ && bash start.sh
 ```
 
-- Create a screen session:
-
-```
-screen -S cysic
-```
-
-- Start the node
-
-```
-cd $HOME && cd ~/cysic-verifier/ && bash start.sh
-```
+- After running Install and Run command wait few minutes, you will se a new ```current worker address```
