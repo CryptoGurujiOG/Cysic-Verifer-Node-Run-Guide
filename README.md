@@ -3,11 +3,13 @@ In this guide, I’ll provide step-by-step instructions for setting up and runni
 
 ## Verifier Node Requirements:
 
-- Mim 8 GB Ram
-- Min 4 Core CPU
-- 200 GB Storage
+- Mim 8 GB Ram (more is good)
+- Min 4 Core CPU (more is good)
+- 200 GB Storage (more is good)
 - PC or VPS with Linux or MacOS
 - Metamask and Keplr wallet
+
+---
 
 Before we start:
 Create a new MetaMask wallet, then import the same wallet into Keplr using the same seed phrase.
@@ -17,4 +19,59 @@ Create a new MetaMask wallet, then import the same wallet into Keplr using the s
 
 ---
 
+- If you want to run verifier node on your pc/laptop, then install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
+- If you want to run verifier node on a VPS then watch my video guide 👉 [video](https://youtu.be/NK431xjj7yA)
 
+---
+
+# Step 1:
+
+- Visit: https://app.cysic.xyz/
+- Click Sign in
+- Click Connect Wallet
+- Connect your EVM wallet (Metamask)
+- Click Bind Invite Code (top right)
+- Enter Invite code 👉 2c609
+- Verify Invite Code
+- Choose a Name and Submit 
+- Click on your Metamask wallet address (top right)
+- Connect your Keplr wallet
+- Click on the Faucet icon
+- Claim 0.1 testnet $CYS daily
+- You will need more than 0.6 testnet $CYS to run a verifier node
+  
+# Step 2:
+
+## Update system and install dependencies:
+
+- Linux (WSL or VPS)
+
+```
+sudo apt update && sudo apt upgrade -y && sudo apt install -y screen wget
+```
+- Mac OS
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && brew update && brew install screen wget
+```
+
+## Install The Verifier Node:
+
+- Replace ```0x-Fill-in-your-reward-address-here``` with your actual with your actual Metamask ```EVM address```
+
+```
+curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setup_linux.sh > ~/setup_linux.sh && bash ~/setup_linux.sh 0x-Fill-in-your-reward-address-here
+
+cd ~/cysic-verifier/ && bash start.sh
+```
+
+- Create a screen session:
+
+```
+screen -S cysic
+```
+
+- Start the node
+
+```
+cd $HOME && cd ~/cysic-verifier/ && bash start.sh
+```
