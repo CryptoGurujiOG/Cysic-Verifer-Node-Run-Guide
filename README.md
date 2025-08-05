@@ -45,7 +45,7 @@ Create a new MetaMask wallet, then import the same wallet into Keplr wallet usin
 
 ## Update system and install dependencies:
 
-- Linux (WSL or VPS)
+- Linux (WSL, Ubuntu, or VPS)
 
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt install -y screen wget
