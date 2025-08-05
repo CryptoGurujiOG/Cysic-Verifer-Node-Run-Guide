@@ -3,16 +3,16 @@ In this guide, I’ll provide step-by-step instructions for setting up and runni
 
 ## Verifier Node Requirements:
 
-- Mim 8 GB Ram (more is good)
-- Min 4 Core CPU (more is good)
+- Minimum 8 GB Ram (more is good)
+- Minimum 4 Core CPU (more is good)
 - 200 GB Storage (more is good)
-- PC or VPS with Linux or MacOS
+- PC or VPS with WSL or MacOS
 - Metamask and Keplr wallet
 
 ---
 
 Before we start:
-Create a new MetaMask wallet, then import the same wallet into Keplr using the same seed phrase.
+Create a new MetaMask wallet, then import the same wallet into Keplr wallet using the same seed phrase.
 
 - Metamask wallet: [Link](https://metamask.io/download)
 - Keplr wallet: [Link](https://www.keplr.app/get)
