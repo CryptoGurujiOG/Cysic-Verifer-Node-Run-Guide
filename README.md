@@ -71,7 +71,7 @@ cd ~/cysic-verifier/ && bash start.sh
 
 - Visit: https://app.cysic.xyz/verifier
 - Click on the Reserve 
-- Select the same wallet address in Workker Address
+- Select the ```your current worker address``` in the Worker Address Section
 - Enter 0.51 amount and Reserve
 
 
