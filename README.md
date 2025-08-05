@@ -65,7 +65,7 @@ curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setu
 cd ~/cysic-verifier/ && bash start.sh
 ```
 
-- After running Install and Run command wait few minutes, you will se a new ```current worker address```
+- After running the command above, wait a few minutes, you will see a new ```current worker address```
 
 ![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/52b99bfa45e136bd6e3a76124c3da129a5844c7d/Screenshot%201.png)
 
