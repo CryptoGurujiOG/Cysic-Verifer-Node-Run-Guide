@@ -77,4 +77,5 @@ cd ~/cysic-verifier/ && bash start.sh
 
 ![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/1afad7a0faac3d3bad88dc5d90fa343a008cb3b3/Screenshot%202.png)
 
-
+- Visit: https://app.cysic.xyz/dashboard/verifier
+- Enter you main EVM wallet address from Metamask to check Node status and Distributed Rewards
