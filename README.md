@@ -50,7 +50,7 @@ Create a new MetaMask wallet, then import the same wallet into Keplr wallet usin
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt install -y screen wget
 ```
-- Mac OS
+- MacOS
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" && brew update && brew install screen wget
 ```
