@@ -66,3 +66,7 @@ cd ~/cysic-verifier/ && bash start.sh
 ```
 
 - After running Install and Run command wait few minutes, you will se a new ```current worker address```
+
+![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/52b99bfa45e136bd6e3a76124c3da129a5844c7d/Screenshot%201.png)
+
+
