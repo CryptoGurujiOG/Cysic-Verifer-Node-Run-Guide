@@ -82,3 +82,11 @@ cd ~/cysic-verifier/ && bash start.sh
 
 ![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/44d08c654fe1a19158530ef4432f426f57e02358/Screenshot%203.png)
 
+✅ Now you are all set
+
+### I will soon share a step-by-step video guide on my YouTube channel.
+
+- Twitter: https://x.com/CryptoGurujiOG
+- Youtube: https://www.youtube.com/@CryptoGurujiOG
+- Telegram: https://www.telegram.me/cryptogurujiog
+
