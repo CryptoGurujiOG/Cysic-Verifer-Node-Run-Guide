@@ -69,4 +69,9 @@ cd ~/cysic-verifier/ && bash start.sh
 
 ![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/52b99bfa45e136bd6e3a76124c3da129a5844c7d/Screenshot%201.png)
 
+- Visit: https://app.cysic.xyz/verifier
+- Click on the Reserve 
+- Select the same wallet address in Workker Address
+- Enter 0.51 amount and Reserve
+
 
