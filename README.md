@@ -75,6 +75,9 @@ cd ~/cysic-verifier/ && bash start.sh
 
 ![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/52b99bfa45e136bd6e3a76124c3da129a5844c7d/Screenshot%201.png)
 
+- Now you can exit the Screen to keep verifier node running in the background
+- Press ```Ctrl+A+D``` to exit the Screen
+
 - Visit: https://app.cysic.xyz/verifier
 - Click on the Reserve 
 - Select the ```your current worker address``` in the Worker Address Section
