@@ -8,7 +8,7 @@ In this guide, I will walk you through step-by-step instructions to set up and r
 - Minimum 8 GB Ram (more is good)
 - Minimum 4 Core CPU (more is good)
 - 200 GB Storage (more is good)
-- PC or VPS with WSL or MacOS
+- PC or VPS with WSL, Ubuntu, or MacOS
 - New Metamask and Keplr wallet
 
 ---
