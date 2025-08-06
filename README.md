@@ -1,6 +1,8 @@
 # Cysic-Verifer-Node-Run-Guide
 In this guide, I will walk you through step-by-step instructions to set up and run a Cysic verifier node on Windows (via WSL), macOS, and VPS, making the process easy and efficient.
 
+![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/48e8cc98a3708c2752dfe8ce998b9e2b8d63820c/Screenshot%205.jpeg)
+
 ## Verifier Node Requirements:
 
 - Minimum 8 GB Ram (more is good)
