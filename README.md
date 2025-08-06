@@ -57,6 +57,12 @@ sudo apt update && sudo apt upgrade -y && sudo apt install -y screen wget
 
 ## Install and Run Verifier Node:
 
+- Create a screen session:
+
+```
+screen -S cysic
+```
+
 - Replace ```0x-Fill-in-your-reward-address-here``` with your actual with your actual Metamask ```EVM address```
 
 ```
