@@ -64,9 +64,17 @@ screen -S cysic
 ```
 
 - Replace ```0x-Fill-in-your-reward-address-here``` with your actual with your actual Metamask ```EVM address```
+- Linux (WSL, Ubuntu, or VPS)
 
 ```
 curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setup_linux.sh > ~/setup_linux.sh && bash ~/setup_linux.sh 0x-Fill-in-your-reward-address-here
+
+cd ~/cysic-verifier/ && bash start.sh
+```
+- MacOS
+
+```
+curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setup_mac.sh && bash ~/setup_mac.sh 0x-Fill-in-your-reward-address-here
 
 cd ~/cysic-verifier/ && bash start.sh
 ```
