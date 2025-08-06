@@ -34,7 +34,7 @@ Create a new MetaMask wallet, then import the same wallet into Keplr wallet usin
 - Enter Invite code 👉 2c609
 - Verify Invite Code
 - Choose a Name and Submit 
-- Click on your Metamask wallet address (top right)
+- Click on your wallet address (top right)
 - Connect your Keplr wallet
 - Click Social Tasks and complete all tasks
 - Click on the Faucet icon
