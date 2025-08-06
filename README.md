@@ -41,7 +41,7 @@ Create a new MetaMask wallet, then import the same wallet into Keplr wallet usin
 - Click Social Tasks and complete all tasks
 - Click on the Faucet icon
 - Claim 0.1 testnet $CYS daily for 7 days
-- You will need more than 0.7 testnet $CYS to run a verifier node
+- You will need minimum 0.7 testnet $CYS to run a verifier node
   
 # Step 2:
 
