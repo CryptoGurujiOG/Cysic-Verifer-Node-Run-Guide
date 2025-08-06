@@ -80,6 +80,9 @@ cd ~/cysic-verifier/ && bash start.sh
 
 - Visit: https://app.cysic.xyz/verifier
 - Click on the Reserve 
+
+![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/5eecdfd24a04d78295f027405d50efb0a93e9adc/Screenshot%204.png)
+
 - Select the ```your current worker address``` in the Worker Address Section
 - Enter 0.51 amount and Reserve
 - After a few minutes, you will see ```Standard ACTIVE``` under ZK Verifier Status
