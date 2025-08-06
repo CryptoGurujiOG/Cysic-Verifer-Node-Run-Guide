@@ -78,13 +78,15 @@ cd ~/cysic-verifier/ && bash start.sh
 - Now you can exit the Screen to keep verifier node running in the background
 - Press ```Ctrl+A+D``` to exit the Screen
 
+# Step 3:
+
 - Visit: https://app.cysic.xyz/verifier
 - Click on the Reserve 
+- Select the ```your current worker address``` in the Worker Address Section
+- Enter 0.51 amount and Reserve
 
 ![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/5eecdfd24a04d78295f027405d50efb0a93e9adc/Screenshot%204.png)
 
-- Select the ```your current worker address``` in the Worker Address Section
-- Enter 0.51 amount and Reserve
 - After a few minutes, you will see ```Standard ACTIVE``` under ZK Verifier Status
 
 ![image alt](https://github.com/CryptoGurujiOG/Cysic-Verifer-Node-Run-Guide/blob/1afad7a0faac3d3bad88dc5d90fa343a008cb3b3/Screenshot%202.png)
