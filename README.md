@@ -14,7 +14,7 @@ In this guide, I will walk you through step-by-step instructions to set up and r
 ---
 
 Before we start:
-Use an existing MetaMask wallet or create a new one, then import the same wallet into Keplr wallet using the same Metamask wallet seed phrase.
+Use an existing Metamask wallet or create a new one, then import it into Keplr wallet using the same Metamask seed phrase.
 
 - Metamask wallet: [Link](https://metamask.io/download)
 - Keplr wallet: [Link](https://www.keplr.app/get)
