@@ -9,7 +9,7 @@ In this guide, I will walk you through step-by-step instructions to set up and r
 - Minimum 2 Core CPU
 - 100 GB Storage
 - PC or VPS with WSL, Ubuntu, or MacOS
-- New Metamask and Keplr wallet
+- Metamask and Keplr wallet
 
 ---
 
