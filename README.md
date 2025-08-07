@@ -5,9 +5,9 @@ In this guide, I will walk you through step-by-step instructions to set up and r
 
 ## Verifier Node Requirements:
 
-- Minimum 8 GB Ram (more is good)
-- Minimum 4 Core CPU (more is good)
-- 200 GB Storage (more is good)
+- Minimum 8 GB Ram
+- Minimum 2 Core CPU
+- 100 GB Storage
 - PC or VPS with WSL, Ubuntu, or MacOS
 - New Metamask and Keplr wallet
 
