@@ -22,7 +22,7 @@ Use an existing Metamask wallet or create a new one, then import it into Keplr w
 ---
 
 - If you want to run verifier node on your pc/laptop, then install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
-- If you want to run verifier node on a VPS then watch my video guide 👉 [video](https://youtu.be/NK431xjj7yA)
+- If you want to run verifier node on a VPS then watch my video guide 👉 [Video](https://youtu.be/NK431xjj7yA)
 
 ---
 
